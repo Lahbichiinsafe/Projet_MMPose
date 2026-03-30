@@ -23,6 +23,7 @@ Human poses are first extracted frame-by-frame using MMPose, then transformed in
 Best model: **GRU**
 
 - RMSE: **8.10 ± 1.74 px** (95% confidence interval, 10 runs)
+- Stable performance across multiple runs
 - Consistent improvement over linear baseline
 
 ## Files
