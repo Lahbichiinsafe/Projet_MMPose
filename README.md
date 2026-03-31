@@ -1,8 +1,4 @@
 # Human Pose Trajectory Prediction
-## Demo
-
-<img width="1920" height="941" alt="{60A32ED9-E8E2-4EC6-B99D-1536AE383597}" src="https://github.com/user-attachments/assets/6405521e-0670-4dd8-9d26-f4ca6bd0a226" />
-
 
 ## Overview
 This project focuses on predicting human motion trajectories from a dance video using pose estimation and sequence modeling.
