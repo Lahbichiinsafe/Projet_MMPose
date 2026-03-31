@@ -5,7 +5,7 @@ This project focuses on predicting human motion trajectories from a dance video 
 
 ## 🎥 Demo
 
-![Demo](./video_danse.mp4)
+https://github.com/user-attachments/assets/f93311ff-4cc7-438b-9bbf-7104c7ade186
 
 Human poses are first extracted frame-by-frame using MMPose, then transformed into temporal sequences to train predictive models.
 
