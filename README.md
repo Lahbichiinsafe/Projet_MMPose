@@ -1,7 +1,7 @@
 # Human Pose Trajectory Prediction
 ## Demo
 
-https://github.com/Lahbichiinsafe/Projet_MMPose/assets/XXXXXXXX/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+
 
 ## Overview
 This project focuses on predicting human motion trajectories from a dance video using pose estimation and sequence modeling.
